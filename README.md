@@ -1,6 +1,7 @@
 # Hi there, I'm David 👋
 
 I'm a full‑stack developer based in Helsingborg, Sweden. I’m passionate about building scalable web applications, developer tools and open‑source software.
+I contribute to open-source projects, share my knowledge with the community, and continuously learn new technologies.
 
 ## About Me
 
