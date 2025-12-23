@@ -9,6 +9,11 @@ I'm a full‑stack developer based in Helsingborg, Sweden. I’m passionate abou
 - 👯‍♂️ I’m interested in collaborating on innovative open‑source projects and tools that help developers be more productive.
 - 📧 Reach me: [david@torner.com](mailto:david@torner.com) or visit my [website](https://davidtorner.com).
 - 🔍 Fun fact: When I’m not coding, I enjoy exploring the Swedish coastline and experimenting with new cooking recipes.
+- 🔧 Contributing to open-source projects by submitting pull requests and issues to libraries like Express.js and Svelte.
+- 🛠 Building side projects with modern frameworks such as Next.js, Remix, and Tailwind CSS.
+- 🚀 Embracing cloud-native development using Docker and Kubernetes.
+- 💬 Feel free to open issues or start discussions if you'd like to collaborate!
+
 
 ## Projects
 
